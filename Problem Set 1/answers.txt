@@ -1,0 +1,12 @@
+Question 1
+	P(not X)=0.8
+	P(X,Y)=0.04
+	P(Y)=0.6
+Question 2
+	Exponentially
+Question3 
+	Non-Norm P(F|B)=0.0009
+	Non-Norm P(not F|B)=0.0999
+	Norm P(F|B)=0.0089
+	Norm P(not F|B)=0.9911
+	

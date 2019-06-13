@@ -1,0 +1,10 @@
+Question 1
+	smaller
+Question 2
+	 0.5
+Question 3 
+	No
+Question 4
+	4
+Question 5
+	F=([1,0,0.1,0],[0,1,0,0.1],[0,0,1,0],[0,0,0,1])	

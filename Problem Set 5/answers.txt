@@ -1,0 +1,7 @@
+Question 1
+	1. Tau_d=0
+	2. No Problem
+	3. Tau_I=0
+	4. Tau_p=0
+ 	
+  

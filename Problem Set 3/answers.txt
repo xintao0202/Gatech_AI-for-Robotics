@@ -1,0 +1,13 @@
+Question 1
+	N=1: 0.75
+	N=4: 0.316
+	N=10: 0.0563
+Question 2
+	After 1 Step
+	A: 3	B: 3	C: 3	D: 3
+	After Infinite Steps
+	A: 3	B: 3	C: 3	D: 3
+Question 3 
+	Ignores robot measurements
+	It likely fails
+  
