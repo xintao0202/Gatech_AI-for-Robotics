@@ -1,0 +1,55 @@
+PART B TEST CASE RESULTS
+-----------
+Test Case 1
+cost: 34.81  (expected min 38.00)
+credit: 1.09
+-----------
+Test Case 10
+cost: 47.49  (expected min 42.87)
+credit: 0.90
+-----------
+Test Case 11
+Failed: Exception('wrong box delivered: 8 instead of 0',)
+credit: 0
+-----------
+Test Case 12
+cost: 29.47  (expected min 16.75)
+credit: 0.57
+-----------
+Test Case 2
+cost: 66.00  (expected min 56.00)
+credit: 0.85
+-----------
+Test Case 20
+cost: 61.81  (expected min 38.00)
+credit: 0.61
+-----------
+Test Case 3
+cost: 47.61  (expected min 43.00)
+credit: 0.90
+-----------
+Test Case 4
+cost: 29.31  (expected min 30.00)
+credit: 1.02
+-----------
+Test Case 5
+cost: 51.09  (expected min 50.00)
+credit: 0.98
+-----------
+Test Case 6
+cost: 54.80  (expected min 61.50)
+credit: 1.12
+-----------
+Test Case 7
+cost: 26.66  (expected min 29.49)
+credit: 1.11
+-----------
+Test Case 8
+cost: 16.00  (expected min 16.00)
+credit: 1.00
+-----------
+Test Case 9
+cost: 656.02  (expected min 603.43)
+credit: 0.92
+-----------
+Total Credit: 11.08
